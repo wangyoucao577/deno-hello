@@ -2,6 +2,10 @@
 
 Hello world via deno deploy, with JWT authorization enabled!
 
+## Prerequisite
+
+[Install Deno and deployctl](https://docs.deno.com/deploy/manual#install-deno-and-deployctl)
+
 ## Run and deploy
 
 ### Local run
