@@ -15,7 +15,7 @@ deno run -A main.ts
 1. deploy to [Deno Deploy](https://docs.deno.com/deploy/manual) by `deployctl`
 
 ```bash
-deployctl deploy -p deno-hello-1
+deployctl deploy -p YOUR_DENO_PROJECT_NAME
 ```
 
 2. Promote latest deployment to production on [Deno Dashboard](dash.deno.com)
