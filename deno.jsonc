@@ -1,0 +1,15 @@
+{
+  "deploy": {
+    "project": "0f58c402-e2d6-45fd-ad0c-a4e25d0b82fd",
+    "exclude": [
+      "**/node_modules"
+    ],
+    "include": [],
+    "entrypoint": "main.ts"
+  },
+  "imports": {
+    "$std/": "https://deno.land/std@0.223.0/",
+    "$djwt/": "https://deno.land/x/djwt@v3.0.2/",
+    "$oak/": "https://deno.land/x/oak@v13.0.0/"
+  }
+}
